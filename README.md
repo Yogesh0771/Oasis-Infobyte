@@ -1,5 +1,5 @@
 # Oasis-Infobyte
-Completed My Level - 1 Tasks under Oasis Infobyte Web Development and Designing Internship
+Successfully completed My Level - 1 Tasks under Oasis Infobyte Web Development and Designing Internship
 
 **Task 1 - Landing Page** Language- HTML,CSS IDE- VS Code
 **Task 2 - Portfolio** Language- HTML, CSS, Javascript IDE- VS Code
